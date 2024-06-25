@@ -7,5 +7,5 @@
   [![Epicgames](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]
 
-  ![Phz GitHub stats](https://github-readme-stats.vercel.app/api?username=Phzsen_icons=true&theme=radical)
+  ![Phz GitHub stats](https://github-readme-stats.vercel.app/api?username=Phzsen&show_icons=true&theme=radical)
 
